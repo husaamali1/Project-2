@@ -14,7 +14,7 @@ export default function SingleProduct() {
           <img src={image}/> <br/> 
            <p>{description}</p> <br/> 
          <h4>£{price}</h4>  <br />
-          {rating[0]} 
+              {rating[0]}
           </div>
           </div>
       </>

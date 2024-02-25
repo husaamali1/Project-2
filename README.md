@@ -3,7 +3,7 @@
 
 An e-commerce page functions as a digital marketplace where businesses display their products and product descriptions. Users can explore diverse offerings, access detailed product information, and engage in a user-friendly browsing experience. The page typically employs visual layouts and intuitive navigation to enhance the overall shopping experience for users.
 
-## Deploymant
+## Deployment
 
 [Visit the e-commerce site](https://e-commercehn.netlify.app/)
 
@@ -31,7 +31,7 @@ Our goal was to create an application that utilizes APIs for displaying data on 
 
 Our app's design process began with the creation of a wireframe, serving as a blueprint for our website's structure. This initial step focused on outlining the homepage, identifying navigational paths, and detailing the components necessary for a seamless user experience. For the product pages, we developed a comprehensive AllProduct section that showcases the entirety of our offerings. This section is designed to provide clients with essential information, including item prices and titles, accompanied by images to give a clear understanding of what is being purchased. For clients interested in a specific item, the SingleProduct page offers an in-depth look, featuring detailed descriptions to assist in their decision-making process. This methodical approach ensured our webpage was both organised and efficient, catering to our users' needs.
 
-[image upload]
+<img src="./src/images/plan.png" width="400">
 
 ## Team management 
 
@@ -52,11 +52,11 @@ I created a React component that uses Bootstrap for styling a centered, bold tit
 
 ## Key Wins
 
-[image upload]
+<img src="./src/images/win.png" width="400">
 
 This is the code I’m most proud of because this one was the most challenging part for me but also really proud of making work using my notes to navigate my way to successfully make everything I wanted to appear correctly. When it came to the Link path, I made spelling mistake making me really confused in why my code wasn’t functioning so I’ve asked my partner and my instructor for help and there realised there was missing ‘s’ in my product which is my link path which was something I really couldn’t see because I had really small-time frame to finish this project but most happy with this make my page have that appearance that things are working and the rest was simpler.
 
-[image upload]
+<img src="./src/images/win2.png" width="400">
 
 I created a React component that uses Bootstrap for styling a centered, bold title. Items are listed with details like titles and prices, using destructuring from an API and the product.map method for display. Links to product pages include images, and prices are shown with the currency symbol. The design aims to keep information clear but not overwhelming, with more details available on click. Finding a free, quality API was a challenge.
 
@@ -72,7 +72,8 @@ This project itself was a massive learning curve making me feel more confident p
 ## Current Bugs
 
 One issue we've encountered on our webpage involves the ratings, which, despite being coded correctly, unfortunately do not display as intended. The root cause of this anomaly remains unclear at this time. We are committed to resolving this and any other bugs, ensuring the webpage functions flawlessly. Below is an image illustrating the problem.
-[image upload]
+
+<img src="./src/images/bugs.png" width="400">
 
 
 ## Future Improvements
