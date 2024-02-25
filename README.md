@@ -50,7 +50,7 @@ Our main task was to make sure a page that shows a single item worked well. We r
 
 I created a React component that uses Bootstrap for styling a centered, bold title. Items are listed with details like titles and prices, using destructuring from an API and the product.map method for display. Links to product pages include images, and prices are shown with the currency symbol. The design aims to keep information clear but not overwhelming, with more details available on click. Finding a free, quality API was a challenge.
 
-## Wins
+## Key Wins
 
 [image upload]
 
